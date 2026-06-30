@@ -1,0 +1,9 @@
+# Binaries
+/metrix
+*.exe
+
+# Go
+vendor/
+
+# Env
+.env
